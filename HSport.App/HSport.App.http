@@ -1,0 +1,6 @@
+@HSport.App_HostAddress = http://localhost:5275
+
+GET {{HSport.App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
